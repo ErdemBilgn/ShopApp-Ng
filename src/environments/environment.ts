@@ -3,7 +3,10 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  adminEmail: 'erdem@erdem.com',
+  apiKey: 'AIzaSyCEawYeRI336jJ-i4zyVrNcX1yK5lrtLuA',
+  databaseURL: 'https://ng-shopapp-f7021-default-rtdb.firebaseio.com',
 };
 
 /*
